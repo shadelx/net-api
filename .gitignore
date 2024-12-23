@@ -1,0 +1,6 @@
+.env
+bin/
+obj/
+# Visual Studio Code workspace and settings
+.vscode/
+*.code-workspace

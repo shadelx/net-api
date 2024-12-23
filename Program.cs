@@ -1,7 +1,13 @@
 using Microsoft.EntityFrameworkCore;
 using student_api;
+using DotNetEnv;
 
 var builder = WebApplication.CreateBuilder(args);
+
+// Load the .env file
+Env.Load();
+// Add environment variables to configuration
+builder.Configuration.AddEnvironmentVariables();
 
 //Add application db context
 builder.Services.AddDbContext<StudentContext>(options =>
