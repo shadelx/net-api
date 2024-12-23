@@ -41,3 +41,6 @@ C:\Users\zai\Documents\coding\dotnet\student-api\obj\Debug\net8.0\refint\student
 C:\Users\zai\Documents\coding\dotnet\student-api\obj\Debug\net8.0\student-api.pdb
 C:\Users\zai\Documents\coding\dotnet\student-api\obj\Debug\net8.0\student-api.genruntimeconfig.cache
 C:\Users\zai\Documents\coding\dotnet\student-api\obj\Debug\net8.0\ref\student-api.dll
+C:\Users\zai\Documents\coding\dotnet\student-api\bin\Debug\net8.0\DotNetEnv.dll
+C:\Users\zai\Documents\coding\dotnet\student-api\bin\Debug\net8.0\Sprache.dll
+C:\Users\zai\Documents\coding\dotnet\student-api\obj\Debug\net8.0\student-api.sourcelink.json
