@@ -1,6 +1,42 @@
+# Ignore environment files
 .env
+
+# Build output
 bin/
 obj/
-# Visual Studio Code workspace and settings
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Visual Studio Code
 .vscode/
 *.code-workspace
+
+# Rider
+.idea/
+*.sln.iml
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# EF Core tools
+Migrations/*Designer.cs
+Migrations/*Snapshot.cs
+
+# Others
+*.swp
+*.tmp
+
+# Exclude sensitive files
+appsettings.*.json
+!appsettings.json
+
+# Ignore test results
+TestResults/
